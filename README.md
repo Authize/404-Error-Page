@@ -1,2 +1,1 @@
-# 404-Error-Page
-A mesmerizing 404 error page that immerses users in a cosmic black hole experience, complete with swirling stars and a sleek, modern design.
+This 404 error page offers a captivating experience by simulating a journey into a black hole in space. It features a dynamic black hole animation surrounded by swirling stars, creating an immersive cosmic atmosphere. The sleek design is centered, with glowing text and a pulsating call-to-action button to guide users back to safety. Perfect for websites looking to impress users even when they encounter errors, this project demonstrates advanced CSS animations and creative use of JavaScript to dynamically generate effects, ensuring a visually engaging and memorable experience.
