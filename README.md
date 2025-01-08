@@ -23,21 +23,21 @@ A mesmerizing 404 error page that immerses users in a cosmic black hole experien
    ```bash
    git clone https://github.com/Authize/404-Error-Page.git
    ```
-2. Open the `index.html` file in your browser to view the page.
+2. Open the `404.html` file in your browser to view the page.
 
 ---
 
 ## 💡 Usage
 To use this 404 page in your project:
-1. Add the `index.html` file to your project.
+1. Add the `404.html` file to your project.
 2. Configure your server to use it as the 404 error page:
    - **Apache**: Add this to your `.htaccess` file:
      ```
-     ErrorDocument 404 /path-to-your-404-page/index.html
+     ErrorDocument 404 /path-to-your-404-page/404.html
      ```
    - **Nginx**: Update your `nginx.conf`:
      ```
-     error_page 404 /path-to-your-404-page/index.html;
+     error_page 404 /path-to-your-404-page/404.html;
      ```
 
 ---
