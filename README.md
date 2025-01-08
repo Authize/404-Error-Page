@@ -21,7 +21,7 @@ A mesmerizing 404 error page that immerses users in a cosmic black hole experien
 ## 📂 Setup Instructions
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/404-black-hole.git
+   git clone https://github.com/Authize/404-Error-Page.git
    ```
 2. Open the `index.html` file in your browser to view the page.
 
